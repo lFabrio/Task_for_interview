@@ -1,0 +1,6 @@
+Create a service that:
+- Has endpoint to accept payment information
+- Sends payment information via email
+- Written in Java
+- Storing payments in database is not required
+- Any framework(s) can be used
